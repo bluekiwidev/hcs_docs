@@ -4,4 +4,4 @@ next: false
 prev: false
 ---
 
-To be added
+Use kamar. The end (or just don't use google)
