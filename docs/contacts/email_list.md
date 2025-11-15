@@ -21,22 +21,21 @@ Bacially how they work are like this:
 
 | Email Address | Who they are send to |
 | :--- | :--- |
-| allhcsstaff@hamiltonchristian.school.nz | to be added | 
-| beehive_core@hamiltonchristian.school.nz | to be added | 
-| beehive_extended@hamiltonchristian.school.nz | to be added | 
-| construction_zone_core@hamiltonchristian.school.nz | to be added | 
-| construction_zone_extended@hamiltonchristian.school.nz | to be added | 
-| the_base_core@hamiltonchristian.school.nz | to be added | 
-| the_base_extended@hamiltonchristian.school.nz | to be added | 
-| primary_school_core@hamiltonchristian.school.nz | to be added | 
-| middle_school_core@hamiltonchristian.school.nz | to be added | 
-| middle_school_extended@hamiltonchristian.school.nz | to be added | 
-| secondary_school_core@hamiltonchristian.school.nz | to be added | 
-| secondary_school_extended@hamiltonchristian.school.nz | to be added | 
-| support_staff@hamiltonchristian.school.nz | to be added | 
-| admin_staff@hamiltonchristian.school.nz | to be added | 
-| teaching_staff@hamiltonchristian.school.nz | to be added | 
-| reliever_staff@hamiltonchristian.school.nz | to be added | 
-| team_leader@hamiltonchristian.school.nz | to be added | 
-| smt@hamiltonchristian.school.nz | to be added | 
-
+| allhcsstaff@hamiltonchristian.school.nz | ALL THE STAFF!!! (Warning: the teachers may not like you...) | 
+| beehive_core@hamiltonchristian.school.nz | Core teachers of the beehive | 
+| beehive_extended@hamiltonchristian.school.nz | Extra beehive teachers | 
+| construction_zone_core@hamiltonchristian.school.nz | Core teachers of the CZ | 
+| construction_zone_extended@hamiltonchristian.school.nz | Extra CZ teachers | 
+| the_base_core@hamiltonchristian.school.nz | I have no idea??? | 
+| the_base_extended@hamiltonchristian.school.nz | I have no idea??? | 
+| primary_school_core@hamiltonchristian.school.nz | Core teachers of primary | 
+| middle_school_core@hamiltonchristian.school.nz | Core teachers of middle school (JSS) | 
+| middle_school_extended@hamiltonchristian.school.nz | Extra JSS teachers | 
+| secondary_school_core@hamiltonchristian.school.nz | Core teachers of secondary | 
+| secondary_school_extended@hamiltonchristian.school.nz | Extra secondary teachers | 
+| support_staff@hamiltonchristian.school.nz | Support people (eg: IT, Office people, literally anyone who does not teach...) | 
+| admin_staff@hamiltonchristian.school.nz | Whole admin department | 
+| teaching_staff@hamiltonchristian.school.nz | The teachers that do the manual labour | 
+| reliever_staff@hamiltonchristian.school.nz | The lucky ones... | 
+| team_leader@hamiltonchristian.school.nz | Team leaders (don't ping cause they are suuuuuper busy) | 
+| smt@hamiltonchristian.school.nz | idk... I give up on guessing | 
